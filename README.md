@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI
 - 📫 How to reach me: Live in Taepyeong
 - 😄 Pronouns: Bean
-- ⚡ Fun fact: I like watching soccer
+- ⚡ Fun fact: I like watch soccer
 <!--
 **jaebean-ai/jaebean-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
